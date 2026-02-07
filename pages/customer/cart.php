@@ -58,7 +58,8 @@ require_once __DIR__ . "/../_head.php";
                 <div class="right">
                     <div class="cart-buttons-container">
                         <div class="cart-favourite-button <?= $item->is_favourite ? "favourite" : ""; ?>"></div>
-                        <div class="cart-remove-button"></div>
+                        <div class="
+                        "></div>
                     </div>
                     <div class="form-group">
                         <div class="form-input">
